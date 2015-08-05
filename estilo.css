@@ -1,0 +1,12 @@
+button {
+	border-radius: 80px 50px;
+	font-family: Helvetica;
+	background-color: #A9A9F5;
+}
+#boton {
+	margin-top: 600px;
+	margin-left:500px;
+	}
+#boton button input {
+	font-family: Helvetica;
+}
